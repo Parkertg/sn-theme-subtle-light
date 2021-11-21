@@ -1,5 +1,5 @@
 # sn-theme-subtle-light
-Tan & lower contrast light theme for Standard Notes
+a Tan light theme for Standard Notes
 
 
 ## Installing this Theme
