@@ -1,0 +1,19 @@
+{
+  "identifier": "tech.gunderson.sn-theme-subtle-light",
+  "name": "Subtle Light",
+  "content_type": "SN|Theme",
+  "area": "themes",
+  "version": "1.0",
+  "description": "A light tan theme for Standard Notes.",
+  "url": "https://raw.githubusercontent.com/Parkertg/sn-theme-subtle-light/main/dist/dist.css",
+  "download_url": "https://github.com/Parkertg/sn-theme-subtle-light/archive/main.zip",
+  "marketing_url": "https://github.com/Parkertg/sn-theme-subtle-light",
+  "latest_url": "http://localhost:8000/sn-theme-subtle-light/ext.json",
+  "thumbnail_url": "https://raw.githubusercontent.com/Parkertg/sn-theme-subtle-light/main/preview.png",
+  "dock_icon": {
+    "type": "circle",
+    "background_color": "#edddc4",
+    "foreground_color": "#ffffff",
+    "border_color": "#ffffff "
+  }
+}
