@@ -8,7 +8,7 @@
   "url": "https://raw.githubusercontent.com/Parkertg/sn-theme-subtle-light/main/dist/dist.css",
   "download_url": "https://github.com/Parkertg/sn-theme-subtle-light/archive/main.zip",
   "marketing_url": "https://github.com/Parkertg/sn-theme-subtle-light",
-  "latest_url": "http://localhost:8000/sn-theme-subtle-light/ext.json",
+  "latest_url": "https://raw.githubusercontent.com/Parkertg/sn-theme-subtle-light/main/ext.json",
   "thumbnail_url": "https://raw.githubusercontent.com/Parkertg/sn-theme-subtle-light/main/preview.png",
   "dock_icon": {
     "type": "circle",
