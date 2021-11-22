@@ -5,10 +5,10 @@
   "area": "themes",
   "version": "1.0",
   "description": "A light tan theme for Standard Notes.",
-  "url": "https://raw.githubusercontent.com/Parkertg/sn-theme-subtle-light/main/dist/dist.css",
-  "download_url": "https://github.com/Parkertg/sn-theme-subtle-light/archive/main.zip",
+  "url": "https://cdn.jsdelivr.net/gh/Parkertg/sn-theme-subtle-light@v1.0/dist/dist.css",
+  "download_url": "https://github.com/Parkertg/sn-theme-subtle-light/archive/refs/tags/v1.0.zip",
   "marketing_url": "https://github.com/Parkertg/sn-theme-subtle-light",
-  "latest_url": "https://raw.githubusercontent.com/Parkertg/sn-theme-subtle-light/main/ext.json",
+  "latest_url": "https://listed.to/p/4mweyGrLjo",
   "thumbnail_url": "https://raw.githubusercontent.com/Parkertg/sn-theme-subtle-light/main/preview.png",
   "dock_icon": {
     "type": "circle",
