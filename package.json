@@ -1,6 +1,6 @@
 {
   "name": "sn-theme-subtle-light",
-  "version": "1.0",
+  "version": "1.1",
   "sn": {
     "main": "dist/dist.css"
   },
